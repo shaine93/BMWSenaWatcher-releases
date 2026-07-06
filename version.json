@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.0/app-debug.apk",
-  "notes": "Test OTA: telechargement + installation depuis le bouton."
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.3/app-debug.apk",
+  "notes": "Diagnostic Spotify Connect (son qui defile mais muet = reste sur le Mac). Nouvelle option 'Redemarrer l'app avant lancement' pour forcer Spotify a jouer en local."
 }
