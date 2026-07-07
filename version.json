@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.5/app-debug.apk",
-  "notes": "Fix ordre de lancement: l'appli nav (BMW Motorrad) reste visible, Spotify ne passe plus par-dessus la limitation de vitesse."
+  "versionCode": 17,
+  "versionName": "2.6",
+  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.6/app-debug.apk",
+  "notes": "Reprise du Sena a l'arret moto pilotee par l'evenement de reconnexion (le Sena met ~15s a revenir). Sortie audio active + reprise musique des qu'il est la."
 }
