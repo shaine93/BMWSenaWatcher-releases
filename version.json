@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.4/app-debug.apk",
-  "notes": "Fix: la BMW coupait la musique ~5s apres l'arret (reconnexion parasite a l'extinction) + Spotify qui ne demarrait pas ('unknown/unknown'). Reco: desactiver 'Redemarrer l'app avant lancement' sur Spotify."
+  "versionCode": 16,
+  "versionName": "2.5",
+  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.5/app-debug.apk",
+  "notes": "Fix ordre de lancement: l'appli nav (BMW Motorrad) reste visible, Spotify ne passe plus par-dessus la limitation de vitesse."
 }
