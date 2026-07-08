@@ -1,6 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
-  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.6/app-debug.apk",
-  "notes": "Reprise du Sena a l'arret moto pilotee par l'evenement de reconnexion (le Sena met ~15s a revenir). Sortie audio active + reprise musique des qu'il est la."
+  "versionCode": 18,
+  "versionName": "2.7",
+  "apkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.7/app-debug.apk",
+  "previousVersionCode": 17,
+  "previousApkUrl": "https://github.com/shaine93/BMWSenaWatcher-releases/releases/download/v2.6/app-debug.apk",
+  "notes": "Lot audit (anti-ANR, re-liberation Sena en roulant, logs honnetes) + bouton rollback vers la version precedente."
 }
